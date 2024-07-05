@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-ma007" alt="anas-ma007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on Brototype **Circle up**
+<!-- - 🔭 I’m currently working on Brototype **Circle up** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/anas-ma007?tab=repositories](https://github.com/anas-ma007?tab=repositories)
 
