@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anaschelakkara786@gmail.com**
   
-- 📲 Contact me **+919544854494**
+- 📲 For Contact **+919544854494**
 
 
 <h3 align="left">Connect with me in LinkedIn :</h3>
