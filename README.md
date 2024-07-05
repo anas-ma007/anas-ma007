@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anas-ma007?tab=repositories](https://github.com/anas-ma007?tab=repositories)
 
-- 💬 Ask me about **Mongodb,React,Nodejs ,Express**
+- 💬 Ask me about **Mongodb, React ,Nodejs ,Express, SQL, NextJs, Azure/AWS, Github/Bitbucket, Agile**
 
 - 📫 How to reach me **anaschelakkara786@gmail.com**
 
@@ -26,7 +26,7 @@
 <p> 
   👩‍💻 Open to Work | Aspiring MERN Stack Developer 🚀
 
-Self-taught and driven, I am currently interning as a MERN Stack Developer at Brototype Kochi. Passionate about web development and eager to enhance my skills, I am actively seeking new opportunities to contribute to innovative projects. Let's connect and explore how I can add value to your team! 🤝
+Self-taught and driven, Passionate about web development and eager to enhance my skills, I am actively seeking new opportunities to contribute to innovative projects. Let's connect and explore how I can add value to your team! 🤝
 
 faithfully...
 </p>
