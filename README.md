@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Anas M A</h1>
-<h3 align="center">A passionate Mernstack developer from India</h3>
+<h3 align="center">A passionate Mernstack developer from India, Kerala</h3>
 
 
 <p align="left" style="marginTop:"20px"> <img src="https://komarev.com/ghpvc/?username=riyazo4&label=Profile%20views&color=0e75b6&style=flat" alt="anas-ma007" /> </p>
@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me in LinkedIn :</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="anas-ma" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anas-ma?trk=profile-badge">MUHAMMED ANAS M A</a></div>
               
-<p align="left">
-<a href="https://www.linkedin.com/in/anas-ma/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-ma/" height="30" width="40" /></a>
+<p align="left"> <p> LinkedIn <p/> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-ma/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/anas-ma/" target="blank"> </a>
 </p>
 
 <h3 align="left">My Bio </h3>
